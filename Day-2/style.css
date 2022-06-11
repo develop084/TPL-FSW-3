@@ -1,0 +1,39 @@
+
+
+div{
+ background-color: red; 
+}
+
+
+span{
+ background-color:blue;
+}
+
+
+p{
+ background-color:yellow;
+}
+
+
+
+h1{
+ background-color:green
+}
+
+table, th, td {
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+
+th,td{
+   border-color: #000000;
+   background-color: #96D4D4;
+
+}
+
+.image{
+ border: 10px solid yellow;
+ object-fit:contain; 
+ width:300px;
+
+}
